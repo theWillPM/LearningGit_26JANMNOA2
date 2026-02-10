@@ -1,5 +1,5 @@
-# LearningGit_26JANMNOA2
-Winter of 2026 - A simple activity to learn the basics of GitHub
+# Learning GitHub Basics
+#### Winter of 2026 - A simple activity to learn the basics of GitHub
 
 ___
 This is the base text for our GitHub practice potato.
