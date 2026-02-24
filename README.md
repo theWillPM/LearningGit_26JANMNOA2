@@ -3,12 +3,7 @@
 
 ___
 This is the base text for our GitHub practice assignment.
-<<<<<<< HEAD
-Each student will make one small edit to improve the clarity or correctness of this text.
+Each student will make one small edit to improve the clarity and correctness of this text.
 The goal is to practice working with tree branches, pull requests, and asynchronous communication.
-=======
-Each student will bake one small edit to improve the charity or correctness of this text.
-The goal is to practice working with tree branches pull requests and asynchronous communication.
->>>>>>> c788aeeaab1adb31c4175ac2d4e5379bf440047b
 ___
 Once the changes are merged, we can fetch the changes and see the updated file on the main branch.
